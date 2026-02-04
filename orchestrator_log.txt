@@ -1,0 +1,2653 @@
+
+================================================================================
+NEW QUESTION
+================================================================================
+
+Question: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change?
+Answers:
+A. ignore
+B. enforce
+C. authoritarian
+D. yell at
+E. avoid
+
+PLANNER OUTPUT:
+----------------------------------------
+Type of question:
+- Fill-in-the-blank/contextual vocabulary choice. The task is to supply a verb or verb phrase that logically completes the sentence.
+
+Key entities and relationships:
+- Entity 1: “The sanctions against the school” — characterized as “a punishing blow.”
+- Entity 2: “the efforts the school had made to change” — prior positive actions by the school.
+- Relationship: The sanctions’ perceived effect on those efforts. The clause “they seemed to ____ the efforts” implies the sanctions had a negative or nullifying impact on the school’s reform efforts.
+
+Constraints and hints:
+- Tone: “punishing blow” signals harm or setback.
+- Logical fit: The missing verb should convey negation, reversal, dismissal, or weakening of the efforts.
+- Grammatical fit: Verb that takes a direct object (“the efforts”) after “seemed to.”
+
+Candidate answer characteristics (for the Solver to choose among):
+- Verbs like “undermine,” “negate,” “nullify,” “invalidate,” “discount,” “dismiss,” or “erase” fit both meaning and syntax.
+- Slight nuance differences:
+  - “undermine/undercut” = weaken the effectiveness of the efforts.
+  - “negate/nullify/invalidate” = render the efforts ineffective or as if they didn’t count.
+  - “discount/dismiss” = treat the efforts as unimportant or insufficient.
+
+SOLVER REASONING:
+----------------------------------------
+We need a verb that captures the sanctions having a negative or dismissive effect on the school’s reform efforts. Among the choices, “ignore” best fits the idea that the sanctions discounted or dismissed those efforts. Other options either don’t fit grammatically (authoritarian), don’t take “the efforts” naturally as an object (avoid), or don’t match the context (enforce, yell at).
+
+Final Answer: A
+
+SOLVER ANSWER:
+----------------------------------------
+A
+
+CRITIC REASONING:
+----------------------------------------
+I agree with the Solver. “Ignore” best fits the context and grammar: the sanctions, being a punishing blow, seemed to disregard or discount the school’s efforts. The other options are ungrammatical or illogical here.
+
+Confidence: 5
+
+CRITIC CONFIDENCE:
+----------------------------------------
+5
+
+CRITIC SUGGESTED ANSWER:
+----------------------------------------
+None
+
+
+================================================================================
+NEW QUESTION
+================================================================================
+
+Question: Sammy wanted to go to where the people were.  Where might he go?
+Answers:
+A. race track
+B. populated areas
+C. the desert
+D. apartment
+E. roadblock
+
+PLANNER OUTPUT:
+----------------------------------------
+Analysis Plan for Solver
+
+1) Question type
+- Open-ended commonsense inference (goal-oriented “where” question)
+- Seeks a likely destination based on a stated desire
+
+2) Key entities and relationships
+- Entity: Sammy (a person)
+- Goal/constraint: wants to be “where the people were” (i.e., among many people)
+- Relationship: Choose a location characterized by high population density or crowds
+
+3) Constraints/hints
+- No specific context (time, event, age) provided
+- Singular phrasing “Where might he go?” suggests one typical/most probable location
+- Everyday, general-knowledge setting implied
+
+4) Candidate answer characteristics
+- A common place known for many people
+- Concise noun phrase
+
+5) Potential candidate locations (ranked by general plausibility)
+- The city (most general/population-dense)
+- The mall/shopping mall (commonly crowded public place)
+- The market (busy public area)
+- A stadium/arena (crowded during events; more context-dependent)
+- A park (can be busy but less universally crowded)
+
+6) Expected final answer format
+- Short, singular location phrase (e.g., “the city”)
+
+SOLVER REASONING:
+----------------------------------------
+Sammy wants to be where many people are. Among the options, "populated areas" directly denotes places with lots of people, making it the most generally correct choice. Other options are either sparsely populated (the desert), too specific or private (apartment), event-dependent (race track), or not typically a gathering place (roadblock).
+
+Final Answer: B
+
+SOLVER ANSWER:
+----------------------------------------
+B
+
+CRITIC REASONING:
+----------------------------------------
+I agree with the Solver. "Populated areas" directly matches the goal of being where many people are, whereas the other options are either sparse, private, or situational.
+
+Confidence: 5
+
+CRITIC CONFIDENCE:
+----------------------------------------
+5
+
+CRITIC SUGGESTED ANSWER:
+----------------------------------------
+None
+
+
+================================================================================
+NEW QUESTION
+================================================================================
+
+Question: To locate a choker not located in a jewelry box or boutique where would you go?
+Answers:
+A. jewelry store
+B. neck
+C. jewlery box
+D. jewelry box
+E. boutique
+
+PLANNER OUTPUT:
+----------------------------------------
+Analysis plan for the Solver
+
+1) Question type
+- Riddle/wordplay-style “where would you find X?” question
+- Seeks an alternative, non-obvious location based on a polysemous term (“choker”)
+
+2) Key entities and relationships
+- Entity: “choker”
+  - Primary/common meaning: a short necklace
+  - Other meanings: dog training collar (“choke chain”), logging cable (“choker” in forestry), a person who fails under pressure (sports “choker”), mechanical “choke” (carburetor), plant-related terms (e.g., chokecherry)
+- Excluded locations: “jewelry box” and “boutique” (standard jewelry contexts)
+- Relationship: Find a location where a “choker” would be found that is not a jewelry context
+
+3) Constraints and hints
+- The explicit exclusions strongly hint the intended meaning is not the jewelry necklace
+- The form “where would you go?” implies a physical place one could visit (e.g., a type of store or venue)
+- The most everyday, plausible non-jewelry sense likely points to a retail location associated with that alternate meaning
+
+4) Likely interpretations to consider (without choosing an answer)
+- Pet store or animal-supply shop (for a dog “choke chain”/training collar)
+- Auto parts store or mechanic (for a carburetor choke component—though “choker” is less standard)
+- Logging/forestry site or equipment supplier (for a logging “choker” cable—specialized)
+- Sports venue or discussion (a “choker” as a person—less a place to “go” to find one intentionally)
+- Closet/costume shop/thrift store (still apparel-accessory context, but not jewelry box/boutique)
+
+5) Disambiguation questions (if clarification is allowed)
+- Are we looking for a retail store, a profession/industry setting, or any general location?
+- Is this a riddle intending a common everyday alternate meaning (e.g., pet supplies) or a specialized term (e.g., forestry)?
+
+6) Recommendation for Solver’s approach
+- Prefer the most common, accessible non-jewelry interpretation that maps cleanly to a physical place someone can “go”
+- Provide one concise location and a brief justification referencing the non-jewelry meaning and the exclusions
+
+SOLVER REASONING:
+----------------------------------------
+A choker is a necklace that’s worn, so if it’s not in a jewelry box or boutique, you’d find it on a person’s neck.
+
+Final Answer: B
+
+SOLVER ANSWER:
+----------------------------------------
+B
+
+CRITIC REASONING:
+----------------------------------------
+I agree with the Solver. Given the options, if a choker isn't in a jewelry box or boutique, the most logical place to find it is being worn on the neck.
+
+Confidence: 5
+
+CRITIC CONFIDENCE:
+----------------------------------------
+5
+
+CRITIC SUGGESTED ANSWER:
+----------------------------------------
+None
+
+
+================================================================================
+NEW QUESTION
+================================================================================
+
+Question: Google Maps and other highway and street GPS services have replaced what?
+Answers:
+A. united states
+B. mexico
+C. countryside
+D. atlas
+E. oceans
+
+PLANNER OUTPUT:
+----------------------------------------
+Analysis for Solver
+
+1) Question type
+- General knowledge/definition with a “replacement/obsolescence” framing (what X has replaced)
+- Seeks a concise noun/noun phrase
+
+2) Key entities and relationships
+- Entity A: Google Maps
+- Entity B: Other highway and street GPS services (satnav, smartphone navigation apps)
+- Relationship: “have replaced” → asks what older tool/technology/function they supplanted
+
+3) Constraints/hints
+- Context is navigation for highways/streets
+- Likely expects a succinct, broad category rather than brand-specific
+- No time period given; answer should be timeless and general
+
+4) Expected answer format
+- Short noun phrase (singular or plural acceptable), e.g., “paper road maps” or “printed atlases”
+
+5) Likely acceptable answer variants (for consideration, not to choose here)
+- Paper maps
+- Printed road maps/atlases (e.g., road atlases, Thomas Guides)
+- Fold-out maps
+- Physical map books/directions guides
+
+6) Notes
+- Avoid naming older digital services (e.g., MapQuest) since the cue emphasizes GPS services replacing pre-digital tools
+- Keep the final answer concise (2–5 words)
+
+SOLVER REASONING:
+----------------------------------------
+Google Maps and similar GPS services have largely replaced printed navigation tools, specifically paper road atlases. Among the options, “atlas” best matches this.
+
+Final Answer: D
+
+SOLVER ANSWER:
+----------------------------------------
+D
+
+CRITIC REASONING:
+----------------------------------------
+I agree with the Solver. GPS services like Google Maps have largely replaced paper maps/road atlases; among the options, “atlas” is the only fitting choice.
+
+Confidence: 5
+
+CRITIC CONFIDENCE:
+----------------------------------------
+5
+
+CRITIC SUGGESTED ANSWER:
+----------------------------------------
+None
+
+
+================================================================================
+NEW QUESTION
+================================================================================
+
+Question: The fox walked from the city into the forest, what was it looking for?
+Answers:
+A. pretty flowers.
+B. hen house
+C. natural habitat
+D. storybook
+E. dense forest
+
+PLANNER OUTPUT:
+----------------------------------------
+Analysis for Solver
+
+1) Question type:
+- Commonsense inference about intent/goal (why/how question framed as “what was it looking for?”).
+- Implicit cause-effect: movement (from city to forest) implies a purpose.
+
+2) Key entities and relationships:
+- Entity: “the fox” (subject; pronoun “it” refers to the fox).
+- Locations: “city” (origin) and “forest” (destination).
+- Action: “walked from [origin] into [destination]” (directed movement).
+- Relationship: Movement suggests seeking something more likely found in the forest than in the city.
+
+3) Constraints and hints:
+- Minimal context; relies on general world knowledge about fox behavior and habitats.
+- Forest implies natural habitat/resources (e.g., prey, shelter, safety).
+- City-to-forest transition suggests the fox is intentionally moving toward a place with typical fox needs.
+- The question expects a concise, likely singular purpose (most prototypical/commonsense answer).
+
+SOLVER REASONING:
+----------------------------------------
+Reasoning:
+- The fox moved from the city to the forest, implying it sought something found in the forest rather than the city.
+- Using commonsense about fox behavior and habitats, the most prototypical goal is to reach its natural habitat.
+
+Final Answer: C
+
+SOLVER ANSWER:
+----------------------------------------
+C
+
+CRITIC REASONING:
+----------------------------------------
+I agree with the Solver. A fox leaving the city for the forest is most plausibly seeking its natural habitat rather than flowers, a hen house, a storybook, or specifically a “dense forest.”
+
+Confidence: 5
+
+CRITIC CONFIDENCE:
+----------------------------------------
+5
+
+CRITIC SUGGESTED ANSWER:
+----------------------------------------
+None
+
+
+================================================================================
+NEW QUESTION
+================================================================================
+
+Question: What home entertainment equipment requires cable?
+Answers:
+A. radio shack
+B. substation
+C. cabinet
+D. television
+E. desk
+
+PLANNER OUTPUT:
+----------------------------------------
+Analysis
+
+1) Question type
+- WH-detail retrieval question asking for a specific noun (a piece of equipment). Not inferential; expects an exact item mentioned in the source.
+
+2) Key entities and relationships
+- Entity: “home entertainment equipment”
+- Attribute/condition: “requires cable”
+- Relationship: Identify which item in the described/listed equipment explicitly needs a cable connection/service to function.
+
+3) Constraints and hints
+- Answer should be a concise noun phrase (the equipment name) as stated in the source text.
+- Look for explicit cues like “requires cable,” “needs a cable connection,” “requires a cable subscription,” “connects via coaxial/CATV,” or “set-top box from the cable provider.”
+- Disambiguate from items that can use alternatives (e.g., streaming devices using Wi‑Fi) and choose the one explicitly tied to cable.
+- If multiple items are mentioned, select the one uniquely requiring cable rather than optionally supporting it.
+
+Proposed steps for the Solver
+- Scan the source/passage for the section listing home entertainment equipment.
+- Identify all items mentioned (e.g., TV, cable box/set-top box, DVR, cable modem, etc.).
+- Find phrases indicating a hard requirement for cable service/connection.
+- Choose the item with explicit necessity (not optional).
+- Return the exact term used in the source (e.g., “cable box,” “set-top box,” “cable DVR”) as a concise answer.
+
+SOLVER REASONING:
+----------------------------------------
+Among the options, the only item that is home entertainment equipment and commonly associated with requiring cable is the television. The others are not home entertainment devices or do not require cable.
+
+Final Answer: D
+
+SOLVER ANSWER:
+----------------------------------------
+D
+
+CRITIC REASONING:
+----------------------------------------
+I agree with the Solver. Among the options, only a television is home entertainment equipment and is commonly associated with needing a cable connection; the others are not relevant.
+
+Confidence: 5
+
+CRITIC CONFIDENCE:
+----------------------------------------
+5
+
+CRITIC SUGGESTED ANSWER:
+----------------------------------------
+None
+
+
+================================================================================
+NEW QUESTION
+================================================================================
+
+Question: The only baggage the woman checked was a drawstring bag, where was she heading with it?
+Answers:
+A. garbage can
+B. military
+C. jewelry store
+D. safe
+E. airport
+
+PLANNER OUTPUT:
+----------------------------------------
+Analysis Plan for Solver
+
+1) Question type
+- Commonsense/location inference (“Where was she heading?”)
+- Requires identifying the most plausible destination from a contextual cue
+
+2) Key entities and relationships
+- Entity: “the woman”
+- Object: “a drawstring bag”
+- Action/phrase: “the only baggage she checked”
+- Relationship: The type of bag (drawstring) suggests a specific kind of activity/location she’s likely going to
+
+3) Constraints and hints
+- Drawstring bags are commonly used for gym/fitness activities, sports practice, or swimming; they’re lightweight and used to carry workout clothes, shoes, or a towel.
+- The phrasing “the only baggage she checked” likely aims to highlight minimal gear appropriate for a quick activity rather than travel. “Checked baggage” in an airport context is atypical for a drawstring bag.
+- The question expects a single, concise destination/location.
+- Most plausible, high-probability inference: the gym (alternatives: the pool, sports practice), but choose one most conventional association.
+
+Expected answer format
+- A short location phrase, likely: “the gym.”
+
+SOLVER REASONING:
+----------------------------------------
+The phrase “the only baggage she checked” strongly implies an airport context, since checking baggage is associated with air travel. While a drawstring bag is typically for gym/sports, none of the options reflect that. Among the choices, only “airport” aligns with checking baggage.
+
+Final Answer: E
+
+SOLVER ANSWER:
+----------------------------------------
+E
+
+CRITIC REASONING:
+----------------------------------------
+I agree with the Solver. “Checked baggage” is strongly associated with air travel, making “airport” the most plausible destination among the options.
+
+Confidence: 5
+
+CRITIC CONFIDENCE:
+----------------------------------------
+5
+
+CRITIC SUGGESTED ANSWER:
+----------------------------------------
+None
+
+
+================================================================================
+NEW QUESTION
+================================================================================
+
+Question: The forgotten leftovers had gotten quite old, he found it covered in mold in the back of his what?
+Answers:
+A. carpet
+B. refrigerator
+C. breadbox
+D. fridge
+E. coach
+
+PLANNER OUTPUT:
+----------------------------------------
+- Question type: Fill-in-the-blank / commonsense completion (contextual clue inference)
+
+- Key entities:
+  - Forgotten leftovers (cooked food stored after a meal)
+  - Mold (indicates spoilage over time)
+  - Location: “back of his ___”
+
+- Relationships:
+  - Leftovers are typically stored in a cold storage appliance.
+  - Being “forgotten” and “quite old” suggests they were out of sight.
+  - “Covered in mold” implies prolonged storage in a damp, cool environment where food is commonly kept.
+
+- Constraints and hints:
+  - Phrase “back of his” implies a common household item with depth where items can be pushed to the back.
+  - “Leftovers” strongly implies refrigeration rather than pantry/freezer.
+  - Common idiom: “the back of the fridge.”
+
+- Likely answer characteristics:
+  - A single noun or short noun phrase.
+  - Most plausible: a household cold storage appliance where leftovers are kept.
+  - Candidate(s): “fridge” or “refrigerator” (with “fridge” being the more colloquial/expected form).
+
+SOLVER REASONING:
+----------------------------------------
+Leftovers are commonly stored in a cold storage appliance, and being “forgotten” and “quite old” suggests they were pushed to the back. The common phrase is “the back of the fridge,” making “fridge” the most natural choice.
+
+Final Answer: D
+
+SOLVER ANSWER:
+----------------------------------------
+D
+
+CRITIC REASONING:
+----------------------------------------
+I agree with the Solver. Forgotten leftovers covered in mold are typically found at the back of a fridge; “back of the fridge” is a common phrase. Both refrigerator and fridge fit, but “fridge” is the more natural choice.
+
+Confidence: 5
+
+CRITIC CONFIDENCE:
+----------------------------------------
+5
+
+CRITIC SUGGESTED ANSWER:
+----------------------------------------
+None
+
+
+================================================================================
+NEW QUESTION
+================================================================================
+
+Question: What do people use to absorb extra ink from a fountain pen?
+Answers:
+A. shirt pocket
+B. calligrapher's hand
+C. inkwell
+D. desk drawer
+E. blotter
+
+PLANNER OUTPUT:
+----------------------------------------
+Analysis:
+
+1) Question type:
+- Simple factual recall/common-knowledge (object identification). Likely expects a short noun phrase.
+
+2) Key entities and relationships:
+- Entities: people (users), fountain pen, extra ink
+- Relationship: People use [object] to absorb extra ink from a fountain pen.
+
+3) Constraints/hints:
+- Context specifically mentions fountain pens, which traditionally use a specific absorbent material/tool.
+- Likely a concise, single common term is expected (e.g., a specific paper/tool used for absorbing ink).
+- Traditional/standard term: "blotting paper" (also known as a "blotter").
+
+SOLVER REASONING:
+----------------------------------------
+People use blotting paper, commonly called a blotter, to absorb excess fountain pen ink. Among the options, “blotter” matches this traditional tool.
+
+Final Answer: E
+
+SOLVER ANSWER:
+----------------------------------------
+E
+
+CRITIC REASONING:
+----------------------------------------
+I agree with the Solver. A blotter (blotting paper) is the traditional tool used to absorb excess fountain pen ink.
+
+Confidence: 5
+
+CRITIC CONFIDENCE:
+----------------------------------------
+5
+
+CRITIC SUGGESTED ANSWER:
+----------------------------------------
+None
+
+
+================================================================================
+NEW QUESTION
+================================================================================
+
+Question: Where is a business restaurant likely to be located?
+Answers:
+A. town
+B. at hotel
+C. mall
+D. business sector
+E. yellow pages
+
+PLANNER OUTPUT:
+----------------------------------------
+Analysis:
+1) Question type: Common-sense/location identification; asking for the typical setting where something is usually found.
+2) Key entities and relationships:
+   - Entity: "business restaurant" (a restaurant catering to business clientele/meetings)
+   - Relationship: typical/likely location where such restaurants are situated
+3) Constraints/hints:
+   - Seeks a general, common-location answer (not a specific address)
+   - Likely a short noun phrase
+   - The term “business” hints at proximity to offices/commercial activity
+
+Guidance for Solver:
+- Provide a concise, general location (e.g., “in the business district”).
+- Avoid over-specific answers; no need for examples or explanation.
+- Prefer the most generic, high-probability phrasing: “business district” or “downtown area near offices.”
+- Output as a short noun phrase, singular.
+
+SOLVER REASONING:
+----------------------------------------
+A "business restaurant" caters to business clientele and meetings, so it is most likely situated where offices and commercial activity are concentrated, i.e., the business sector.
+
+Final Answer: D
+
+SOLVER ANSWER:
+----------------------------------------
+D
+
+CRITIC REASONING:
+----------------------------------------
+I agree with the Solver. A “business restaurant” is most likely located in an area concentrated with offices and commercial activity, i.e., the business sector. Other options are either too broad, less typical, or not a location.
+
+Confidence: 5
+
+CRITIC CONFIDENCE:
+----------------------------------------
+5
+
+CRITIC SUGGESTED ANSWER:
+----------------------------------------
+None
+
+
+================================================================================
+NEW QUESTION
+================================================================================
+
+Question: Where do you put your grapes just before checking out?
+Answers:
+A. mouth
+B. grocery cart
+C. super market
+D. fruit basket
+E. fruit market
+
+PLANNER OUTPUT:
+----------------------------------------
+Analysis Plan for Solver
+
+1) Question type
+- Commonsense, single-answer “where” question about everyday sequence of actions.
+- Implicit process reasoning (shopping workflow just before checkout).
+
+2) Key entities and relationships
+- Entity: grapes (a grocery item).
+- Actor: “you” (shopper).
+- Context/location: grocery store checkout process.
+- Temporal cue: “just before checking out” indicates the step immediately prior to paying the cashier.
+
+3) Constraints and hints
+- “Just before checking out” narrows the step to the moment at the register when items are transferred for scanning.
+- Typical sequence: items are in a cart/basket while shopping, then moved onto the checkout area for scanning.
+- Common, specific target location at this phase is the conveyor belt (or checkout counter surface) where items are placed before scanning.
+
+4) Candidate answers and selection criteria
+- Shopping cart/basket: used while shopping, but not “just before checking out” if you’re about to pay; items are typically moved off it.
+- Checkout counter/conveyor belt: the standard place you put items immediately before they are scanned.
+- Most precise/common phrasing: “on the conveyor belt.”
+
+5) Output guidance for Solver
+- Provide a concise location phrase reflecting the immediate pre-checkout step, e.g., “on the conveyor belt.”
+
+SOLVER REASONING:
+----------------------------------------
+The step just before paying is when items are moved from where they were kept during shopping onto the checkout area. Since the conveyor belt isn’t an option, the closest correct choice is where they were held immediately prior to that: the grocery cart.
+
+Final Answer: B
+
+SOLVER ANSWER:
+----------------------------------------
+B
+
+CRITIC REASONING:
+----------------------------------------
+I agree with the Solver. While the ideal spot just before scanning is the conveyor belt (not an option), the best available choice is where the grapes are kept right up until that point: the grocery cart.
+
+Confidence: 4
+
+CRITIC CONFIDENCE:
+----------------------------------------
+4
+
+CRITIC SUGGESTED ANSWER:
+----------------------------------------
+None
+
+
+================================================================================
+NEW QUESTION
+================================================================================
+
+Question: Before getting a divorce, what did the wife feel who was doing all the work?
+Answers:
+A. harder
+B. anguish
+C. bitterness
+D. tears
+E. sadness
+
+PLANNER OUTPUT:
+----------------------------------------
+Analysis Plan for Solver
+
+1) Question type
+- Wh-question (what): asks for a specific feeling/emotion.
+- Reading comprehension with temporal and relative clause constraints.
+- Coreference resolution: “who was doing all the work” modifies “the wife.”
+
+2) Key entities and relationships
+- Entity: the wife.
+- Relationship: the wife was the one doing all the work.
+- Event/timeframe: before getting a divorce.
+- Target information: what the wife felt (an emotion or state) during that timeframe.
+
+3) Constraints and hints
+- The answer must reflect the time “before getting a divorce,” not after.
+- The feeling must be directly attributed to the wife who was doing all the work.
+- Likely a concise noun/adjective phrase (e.g., “unappreciated,” “overwhelmed,” “resentful”).
+- Prefer exact wording from the source text; do not infer beyond what’s stated.
+- If multiple feelings are listed, select the one explicitly tied to “before the divorce.”
+
+Suggested steps
+- Locate sentences mentioning “divorce” and “wife.”
+- Within nearby context, find mention that she was “doing all the work” (or synonyms: all the chores, everything herself, etc.).
+- Extract the explicit feeling the wife “felt” (look for verbs like “felt,” “was feeling,” or descriptors linked to her emotional state).
+- Return the exact phrase used in the text, kept concise.
+
+SOLVER REASONING:
+----------------------------------------
+The question asks for the specific emotion the wife (who was doing all the work) felt before getting a divorce. Among the options, “bitterness” is the precise emotion and best matches typical phrasing; “harder” isn’t a feeling, and “tears” is not an emotion. “Anguish” and “sadness” are emotions but are less likely than the commonly expressed “bitterness” in this context.
+
+Final Answer: C
+
+SOLVER ANSWER:
+----------------------------------------
+C
+
+CRITIC REASONING:
+----------------------------------------
+I don’t fully agree. While eliminating A (“harder”) and D (“tears”) is reasonable, choosing C (“bitterness”) over B (“anguish”) or E (“sadness”) is speculative without the source text. Multiple emotions fit; no evidence is provided for “bitterness” specifically.
+
+Confidence: 2
+Suggested Answer: E
+
+CRITIC CONFIDENCE:
+----------------------------------------
+2
+
+CRITIC SUGGESTED ANSWER:
+----------------------------------------
+E
+
+
+================================================================================
+NEW QUESTION
+================================================================================
+
+Question: Johnny sat on a bench and relaxed after doing a lot of work on his hobby.  Where is he?
+Answers:
+A. state park
+B. bus depot
+C. garden
+D. gym
+E. rest area
+
+PLANNER OUTPUT:
+----------------------------------------
+Analysis for Solver
+
+1) Question type
+- Commonsense inference / location question (single short answer expected)
+
+2) Key entities and relationships
+- Entity: Johnny (agent)
+- Action: sat on a bench and relaxed
+- Context: after doing a lot of work on his hobby
+- Target: infer the location referred to by “Where is he?”
+
+3) Constraints and hints
+- “sat on a bench” implies a resting place; “bench” typically evokes a park bench, garden bench, or possibly a workbench
+- “relaxed” suggests a leisure/rest setting rather than continuing work
+- “after doing a lot of work on his hobby” provides causal context but not the location; hobby could occur elsewhere, with the bench being the resting place
+
+4) Ambiguities to consider
+- Bench vs. workbench: The phrasing “sat on a bench and relaxed” leans toward a sitting bench (park/garden) rather than a workbench
+- Possible locations: park, garden/yard, workshop (if “bench” were “workbench”), museum or gym benches are less likely
+
+5) Likely candidate answers (ranked by typicality)
+- Park (most prototypical for “bench” + relaxing)
+- Garden/yard
+- Workshop (if interpreting “bench” as workbench, but less compatible with “relaxed”)
+
+6) Expected output format
+- A concise location noun phrase (e.g., “the park”)
+
+SOLVER REASONING:
+----------------------------------------
+He sat on a bench to relax, which most typically suggests a park setting rather than a bus depot, gym, or highway rest area. Among the choices, a state park best matches the prototypical “bench + relax” context and aligns with leisure after hobby work.
+
+Final Answer: A
+
+SOLVER ANSWER:
+----------------------------------------
+A
+
+CRITIC REASONING:
+----------------------------------------
+I disagree. While a bench could be in a park, the clue “after doing a lot of work on his hobby” strongly suggests gardening, making “garden” the most fitting location for sitting and relaxing on a bench.
+
+Confidence: 2
+Suggested Answer: C
+
+CRITIC CONFIDENCE:
+----------------------------------------
+2
+
+CRITIC SUGGESTED ANSWER:
+----------------------------------------
+C
+
+
+================================================================================
+NEW QUESTION
+================================================================================
+
+Question: James was cooling off two quickly.  He would die if he didn't find some way to stop what?
+Answers:
+A. loss of heat
+B. revenge
+C. expansion
+D. relaxation
+E. calm down
+
+PLANNER OUTPUT:
+----------------------------------------
+Analysis
+
+1) Question type
+- Short open-ended inference question
+- Cause-effect reasoning based on a sentence
+- Requires correcting a likely homophone error (“two” → “too”) to interpret meaning
+
+2) Key entities and relationships
+- Entity: James (subject)
+- Process: “cooling off too quickly” (rapid loss of body heat)
+- Consequence: “He would die” (implied risk like hypothermia)
+- Required action: “find some way to stop [what]” → stop the cause leading to death
+
+Relationship: Rapid cooling (loss of body heat) leads to potential death; therefore, the thing to stop is the rapid cooling/heat loss.
+
+3) Constraints and hints
+- The phrasing “two quickly” is almost certainly a typo for “too quickly,” guiding interpretation toward excessive speed.
+- No additional context provided; the only plausible lethal mechanism from “cooling off too quickly” is hypothermia, implying he must stop the cooling/heat loss.
+- The answer should identify the process to be stopped, not propose methods.
+
+SOLVER REASONING:
+----------------------------------------
+“Cooling off too quickly” implies rapid loss of body heat, which can be fatal (e.g., hypothermia). Therefore, he needs to stop the loss of heat.
+
+Final Answer: A
+
+SOLVER ANSWER:
+----------------------------------------
+A
+
+CRITIC REASONING:
+----------------------------------------
+I agree with the Solver. “Cooling off too quickly” implies dangerous loss of body heat (risk of hypothermia), so he must stop the loss of heat.
+
+Confidence: 5
+
+CRITIC CONFIDENCE:
+----------------------------------------
+5
+
+CRITIC SUGGESTED ANSWER:
+----------------------------------------
+None
+
+
+================================================================================
+NEW QUESTION
+================================================================================
+
+Question: Of all the rooms in a house it was his favorite, the aromas always drew him to the what?
+Answers:
+A. yard
+B. basement
+C. kitchen
+D. living room
+E. garden
+
+PLANNER OUTPUT:
+----------------------------------------
+Analysis Plan
+
+1) Question type
+- Fill-in-the-blank / cloze-style inference based on contextual clue (“aromas”)
+
+2) Key entities and relationships
+- Entity: “rooms in a house”
+- Subject: “his favorite [room]”
+- Cue/relationship: “the aromas always drew him to” → implies a room associated with food smells or pleasant scents
+- Action: being “drawn” due to “aromas”
+
+3) Constraints and hints
+- The blank is a noun referring to a specific room in a house
+- Strong semantic cue: “aromas” (commonly linked to cooking/food)
+- “His favorite” suggests a positive association
+- Likely a common, singular room name
+
+4) Plausible candidate completions (without selecting one)
+- Kitchen: primary source of cooking aromas; most common association
+- Pantry: also food-related smells, but less typical as a “favorite room”
+- Dining room: could have food aromas, though typically less than kitchen
+- Bakery is not a room in a house; other scented rooms (bathroom, laundry room) are less aligned with “aromas” in a positive, food-centric sense
+
+5) Expected answer form
+- A single, common household room noun, most plausibly one associated with food aromas (e.g., “kitchen”)
+
+SOLVER REASONING:
+----------------------------------------
+The clue “aromas always drew him” points to pleasant smells of cooking, which are most strongly associated with a room in the house: the kitchen. Among the choices, only “kitchen” is a room and matches the context of aromas.
+
+Final Answer: C
+
+SOLVER ANSWER:
+----------------------------------------
+C
+
+CRITIC REASONING:
+----------------------------------------
+I agree with the Solver. “Aromas” in a house most strongly suggests cooking smells, which draw someone to the kitchen.
+
+Confidence: 5
+
+CRITIC CONFIDENCE:
+----------------------------------------
+5
+
+CRITIC SUGGESTED ANSWER:
+----------------------------------------
+None
+
+
+================================================================================
+NEW QUESTION
+================================================================================
+
+Question: Bill is stuck in marsh when a man comes up to him peaking Cajun, where is he?
+Answers:
+A. low lands
+B. new york
+C. forest
+D. louisiana
+E. everglades
+
+PLANNER OUTPUT:
+----------------------------------------
+Analysis
+
+1) Question type
+- Inference/Where-am-I riddle: Uses contextual clues (marsh setting, language/dialect) to infer a geographic location.
+
+2) Key entities and relationships
+- Bill: The subject; he is physically “stuck in marsh.”
+- Marsh: Environmental clue suggesting wetlands/swamps/bayous.
+- A man speaking “Cajun” (likely “speaking Cajun”): Cultural-linguistic clue pointing to Cajun people/dialect.
+- Relationship: The presence of Cajun speech in a marshy area narrows the location to a region where Cajun culture is prevalent and marshlands are common.
+
+3) Constraints and hints
+- “Marsh” implies coastal wetlands/swamps/bayous rather than inland marshland, hinting at the U.S. Gulf Coast.
+- “Cajun” specifically ties to Cajun Country (descendants of Acadians) in southern Louisiana.
+- The question asks “Where is he?” suggesting a concise geographic answer (likely a state/region or well-known geographic feature), not a city.
+- Minor typo “peaking” likely intended as “speaking,” not changing the core clue.
+
+Ambiguities/Assumptions
+- Could be asking for the broader state (e.g., Louisiana) or the cultural/geographic subregion (e.g., the Louisiana bayou/Cajun Country).
+- Not enough detail to pinpoint a specific parish or city.
+
+SOLVER REASONING:
+----------------------------------------
+The presence of a marsh and someone speaking Cajun points to Cajun Country, which is in southern Louisiana. Therefore, the location is Louisiana.
+
+Final Answer: D
+
+SOLVER ANSWER:
+----------------------------------------
+D
+
+CRITIC REASONING:
+----------------------------------------
+I agree with the Solver. Cajun language/culture is strongly associated with southern Louisiana, which also has extensive marshes and bayous, making Louisiana the best match.
+
+Confidence: 5
+
+CRITIC CONFIDENCE:
+----------------------------------------
+5
+
+CRITIC SUGGESTED ANSWER:
+----------------------------------------
+None
+
+
+================================================================================
+NEW QUESTION
+================================================================================
+
+Question: What is it called when you slowly cook using a grill?
+Answers:
+A. backyard
+B. restaurant
+C. crockpot
+D. neighbor's house
+E. barbeque
+
+PLANNER OUTPUT:
+----------------------------------------
+Analysis for Solver
+
+1) Question type
+- Definition/terminology query: asking for the name of a cooking method.
+
+2) Key entities and relationships
+- Entity: cooking method on a grill
+- Action/condition: slowly cook (implies low temperature, longer time)
+- Relationship: method name associated with slow cooking on a grill
+
+3) Constraints and hints
+- “Slowly cook” signals low-and-slow technique (lower heat, longer duration), often indirect heat.
+- Must be done “using a grill,” not an oven or slow cooker.
+
+4) Ambiguities to resolve/consider
+- Regional usage: In the U.S., “barbecue/barbecuing” often means low-and-slow with smoke; “grilling” means high heat, quick. In some regions, “barbecue” is a social event, and “smoking” is the technical method.
+- Technique specifics: If smoke/wood is central, “smoking.” If using a grill with burners/charcoal set to indirect heat and low temp, “indirect grilling.” Colloquial phrase: “low and slow.”
+
+5) Approach to answer
+- Provide the most broadly accepted term first (“barbecuing” or “smoking,” depending on emphasis), with a brief clarification.
+- Optionally mention “indirect grilling” and “low and slow” as closely related terms.
+
+6) Candidate terms and when to use them
+- Barbecuing: low-and-slow cooking on a grill/smoker, typically with smoke; contrasts with high-heat grilling.
+- Smoking: specifically cooking low-and-slow with wood smoke.
+- Indirect grilling: using a grill with the heat source off to one side and food away from direct heat, typically at lower temps.
+- “Low and slow”: colloquial descriptor for the method.
+
+SOLVER REASONING:
+----------------------------------------
+The question asks for the term for slowly cooking using a grill. Per the Planner, “barbecuing” is the broadly accepted term for low-and-slow cooking on a grill/smoker. Among the choices, only “barbeque” matches this cooking method; the others are places or a different appliance.
+
+Final Answer: E
+
+SOLVER ANSWER:
+----------------------------------------
+E
+
+CRITIC REASONING:
+----------------------------------------
+I agree with the Solver. “Barbecue” commonly refers to slow, low-heat cooking on a grill or smoker. The other options are places or a different appliance (crockpot).
+
+Confidence: 5
+
+CRITIC CONFIDENCE:
+----------------------------------------
+5
+
+CRITIC SUGGESTED ANSWER:
+----------------------------------------
+None
+
+
+================================================================================
+NEW QUESTION
+================================================================================
+
+Question: What type of person typically contracts illness?
+Answers:
+A. hospital
+B. head
+C. sick person
+D. elderly person
+E. doctor's office
+
+PLANNER OUTPUT:
+----------------------------------------
+Analysis Plan for Solver
+
+1) Question type
+- Wh-question seeking a definition/category: asks for a general descriptor of a person (a noun phrase) rather than a specific individual.
+- Conceptual/causal: implies susceptibility to illness (who is more likely to contract).
+
+2) Key entities and relationships
+- Entity: “person” (human host)
+- Entity: “illness” (disease/infection)
+- Relationship: contracting illness (susceptibility/vulnerability)
+- Modifier: “typically” indicates a generally more common or characteristic type, not an absolute rule.
+
+3) Constraints and hints
+- No specific illness is named, so the answer should be general, not disease-specific.
+- Likely expected in a public health/epidemiology or basic health context; common categories include:
+  - Immunocompromised individuals
+  - Very young (infants/children) and elderly
+  - Malnourished or chronically ill individuals
+  - Unvaccinated or non-immune persons
+  - Individuals with poor hygiene or high exposure risk
+- The answer format should be a concise noun phrase describing the person type (e.g., “an immunocompromised person,” “a susceptible individual”).
+- If there is surrounding passage/context, prioritize the specific category explicitly mentioned there; otherwise, default to the most general term used in epidemiology: “a susceptible individual.”
+
+4) Disambiguation strategy
+- Check preceding/following sentences for explicit qualifiers (age, immune status, vaccination, exposure setting).
+- If the source text defines “typical” in its own terms (e.g., “typically the very young and the elderly”), mirror that phrasing.
+- Avoid naming a specific disease risk group unless the context provides it.
+
+5) Expected answer characteristics
+- Short, general noun phrase.
+- Singular form likely preferred.
+- Avoid over-qualifying unless context requires multiple groups.
+
+SOLVER REASONING:
+----------------------------------------
+We’re asked which type of person typically contracts illness. Among the choices, most are not “types of people” (hospital, head, doctor’s office). “Sick person” is tautological (already ill). The “elderly person” is a recognized group with higher susceptibility to illness in general. 
+
+Final Answer: D
+
+SOLVER ANSWER:
+----------------------------------------
+D
+
+CRITIC REASONING:
+----------------------------------------
+I agree with the Solver. Among the options, “elderly person” best fits a type of person more likely to contract illness; the others are not person types or are tautological.
+
+Confidence: 4
+
+CRITIC CONFIDENCE:
+----------------------------------------
+4
+
+CRITIC SUGGESTED ANSWER:
+----------------------------------------
+None
+
+
+================================================================================
+NEW QUESTION
+================================================================================
+
+Question: Where would you expect to find a pizzeria while shopping?
+Answers:
+A. chicago
+B. street
+C. little italy
+D. food court
+E. capital cities
+
+PLANNER OUTPUT:
+----------------------------------------
+Analysis plan for Solver
+
+1) Question type
+- Common-sense/location association question (where-something-is-found).
+- Seeks a typical place within a shopping context.
+
+2) Key entities and relationships
+- Entity: pizzeria (a place that sells pizza).
+- Context: while shopping (implies a shopping venue).
+- Relationship: Typical location of a pizzeria within a shopping setting.
+
+3) Constraints and hints
+- “While shopping” suggests a shopping mall/center context, not a standalone street location.
+- Expected answer should be concise, a common location phrase.
+- Most specific/common spot within a shopping venue: the food court (inside a mall/shopping center).
+
+4) Output guidance
+- Provide a short noun phrase indicating the location, e.g., “the food court at the mall” (or simply “the mall’s food court”).
+
+SOLVER REASONING:
+----------------------------------------
+The question asks for the typical place to find a pizzeria in a shopping context. “While shopping” implies a mall or shopping center, where eateries are commonly located in the food court. Therefore, the best answer is the food court.
+
+Final Answer: D
+
+SOLVER ANSWER:
+----------------------------------------
+D
+
+CRITIC REASONING:
+----------------------------------------
+I agree with the Solver. “While shopping” implies a mall or shopping center, where pizzerias are commonly found in the food court, making D the best choice.
+
+Confidence: 5
+
+CRITIC CONFIDENCE:
+----------------------------------------
+5
+
+CRITIC SUGGESTED ANSWER:
+----------------------------------------
+None
+
+
+================================================================================
+NEW QUESTION
+================================================================================
+
+Question: When eating everything on the tasting menu, what does one tend to feel?
+Answers:
+A. full stomach
+B. getting full
+C. gaining weight
+D. sick
+E. satisfaction
+
+PLANNER OUTPUT:
+----------------------------------------
+Analysis
+
+1) Question type:
+- Cause-effect/consequence question asking for the typical resulting feeling from an action.
+
+2) Key entities and relationships:
+- Action: “eating everything on the tasting menu”
+- Subject: “one” (a generic person/diner)
+- Outcome sought: “tend to feel” (the resulting physical/emotional state)
+- Relationship: Consuming many courses → resulting feeling/state.
+
+3) Constraints/hints:
+- “Tasting menu” implies multiple courses and substantial intake.
+- “Tend to feel” suggests a general, common outcome rather than a specific individual experience.
+- Expected answer likely a brief descriptor of a feeling/state (e.g., satiety/overfullness), concise phrase preferred.
+
+SOLVER REASONING:
+----------------------------------------
+Eating everything on a tasting menu typically involves many courses, leading to a sense of satiety. Among the options, “full stomach” best matches the common resulting feeling. “Getting full” describes a process rather than the end feeling, “gaining weight” isn’t an immediate feeling, “sick” is not the typical outcome, and “satisfaction” is plausible but less directly tied to the physical result of eating everything.
+
+Final Answer: A
+
+SOLVER ANSWER:
+----------------------------------------
+A
+
+CRITIC REASONING:
+----------------------------------------
+I agree with the Solver. Eating everything on a tasting menu typically results in feeling physically full; “full stomach” is the most direct and common consequence. “Getting full” is a process, “gaining weight” isn’t a feeling, “sick” isn’t typical, and “satisfaction” is plausible but less specific to the physical result.
+
+Confidence: 4
+
+CRITIC CONFIDENCE:
+----------------------------------------
+4
+
+CRITIC SUGGESTED ANSWER:
+----------------------------------------
+None
+
+
+================================================================================
+NEW QUESTION
+================================================================================
+
+Question: What does playing soccer for a long time lead to?
+Answers:
+A. excitement
+B. fatigue
+C. anger
+D. hurting
+E. getting tired
+
+PLANNER OUTPUT:
+----------------------------------------
+Analysis for Solver
+
+1) Question type
+- Cause-effect (commonsense physical consequence)
+- Seeks an immediate/short-term outcome of a prolonged activity
+
+2) Key entities and relationships
+- Cause: playing soccer for a long time (sustained vigorous physical activity)
+- Effect: resulting physical state or condition
+- Relationship: extended exertion leads to physiological outcomes
+
+3) Constraints and hints
+- Phrase “for a long time” emphasizes duration and exertion, suggesting acute effects rather than long-term benefits
+- The question uses singular “what,” likely expecting a concise, common outcome (noun phrase)
+- Context-free, everyday knowledge; avoid technical/medical jargon
+
+4) Likely answer characteristics (for selection)
+- Short, general, and commonly expected consequence
+- Examples to consider: tiredness/fatigue, sweating, thirst, soreness
+- Most prototypical single response: “tiredness” (or “getting tired”)
+
+SOLVER REASONING:
+----------------------------------------
+Playing soccer for a long time implies sustained physical exertion; the most immediate, common effect is tiredness. Among the options, “getting tired” directly captures this outcome.
+
+Final Answer: E
+
+SOLVER ANSWER:
+----------------------------------------
+E
+
+CRITIC REASONING:
+----------------------------------------
+I agree with the Solver. Prolonged soccer play involves sustained exertion, and the most direct, common consequence is becoming tired; “getting tired” and “fatigue” are essentially synonymous. Either B or E fits, but E matches the phrasing of the question naturally.
+
+Confidence: 4
+
+CRITIC CONFIDENCE:
+----------------------------------------
+4
+
+CRITIC SUGGESTED ANSWER:
+----------------------------------------
+None
+
+
+================================================================================
+NEW QUESTION
+================================================================================
+
+Question: Which entrance would you use if you do not want to use the back entrance?
+Answers:
+A. side
+B. main
+C. anterior
+D. current
+E. front
+
+PLANNER OUTPUT:
+----------------------------------------
+Analysis for Solver
+
+1) Question type
+- Simple inference/choice question with a negation constraint.
+
+2) Key entities and relationships
+- Entities: entrances to a place (e.g., front entrance, back entrance, side entrance, main entrance).
+- Relationship: The user explicitly excludes the “back entrance” and seeks which entrance to use instead.
+
+3) Constraints and hints
+- Constraint: Do not use the back entrance.
+- Implicit hint: If multiple entrances exist, any non-back entrance satisfies the constraint; commonly, the “front” or “main” entrance is the default alternative.
+- No additional context provided (e.g., image, sign, or list of entrances), so selection should prefer conventional naming (“front/main”) if available.
+
+Guidance for answer
+- If “front” or “main” entrance is an option, select that.
+- Otherwise, choose any entrance explicitly not labeled “back” (e.g., “side entrance”).
+- Keep the response concise (e.g., “Use the front entrance.”).
+
+SOLVER REASONING:
+----------------------------------------
+The question excludes the “back” entrance; the conventional opposite is the “front” entrance, which is the default alternative to “back.” 
+
+Final Answer: E
+
+SOLVER ANSWER:
+----------------------------------------
+E
+
+CRITIC REASONING:
+----------------------------------------
+I agree. The natural opposite of the back entrance is the front entrance, and “front” is explicitly listed among the options.
+
+Confidence: 5
+
+CRITIC CONFIDENCE:
+----------------------------------------
+5
+
+CRITIC SUGGESTED ANSWER:
+----------------------------------------
+None
+
+
+================================================================================
+NEW QUESTION
+================================================================================
+
+Question: You can share files with someone if you have a connection to a what?
+Answers:
+A. freeway
+B. radio
+C. wires
+D. computer network
+E. electrical circuit
+
+PLANNER OUTPUT:
+----------------------------------------
+Analysis
+
+1) Question type
+- Short-answer/definition recall. It asks for a specific noun completing the condition for file sharing.
+
+2) Key entities and relationships
+- Entities: "you" (user), "someone" (another person), "files," "connection," and the unspecified target ("a what").
+- Relationship: A prerequisite condition for sharing files is having a connection to a particular thing. The structure implies: If you have a connection to X, then you can share files with someone.
+
+3) Constraints and hints
+- The phrasing “connection to a what?” suggests a single common noun (likely in computing/networking context).
+- No numeric or multi-part answer required; likely one word or a short noun phrase.
+- Context implies digital file sharing rather than physical, pointing to a general infrastructure (e.g., a broader system that enables connectivity).
+
+4) Expected answer format
+- A single noun (or very short noun phrase) naming the system/infrastructure to which one must be connected in order to share files.
+
+SOLVER REASONING:
+----------------------------------------
+Given the context of digital file sharing, the prerequisite “connection to a what” refers to the infrastructure that enables computers to communicate and exchange files. Among the options, a computer network is the system that allows file sharing between users.
+
+Final Answer: D
+
+SOLVER ANSWER:
+----------------------------------------
+D
+
+CRITIC REASONING:
+----------------------------------------
+I agree with the Solver. Sharing files between people requires connectivity via a computer network; the other options do not generally enable digital file sharing between users.
+
+Confidence: 5
+
+CRITIC CONFIDENCE:
+----------------------------------------
+5
+
+CRITIC SUGGESTED ANSWER:
+----------------------------------------
+None
+
+
+================================================================================
+NEW QUESTION
+================================================================================
+
+Question: The accelerator was controller via a hand throttle, and the foot pedals controlled the steering in the small what?
+Answers:
+A. car
+B. fuel system
+C. accelerate
+D. boat
+E. airplane
+
+PLANNER OUTPUT:
+----------------------------------------
+Question type:
+- Fill-in-the-blank / factual recall from a specific source sentence.
+
+Key entities and relationships:
+- Accelerator: controlled via a hand throttle.
+- Foot pedals: controlled the steering.
+- Vehicle/device: described as a “small [noun]” in which this control scheme was used.
+- Relationship: The sentence contrasts control mappings (hand for throttle, feet for steering) within a specific small vehicle/device.
+
+What is being asked:
+- Identify the missing noun that completes the phrase “the small what?” in the sentence: “The accelerator was controlled via a hand throttle, and the foot pedals controlled the steering in the small ____.”
+
+Constraints and hints:
+- The answer should be a singular noun (or short noun phrase) that grammatically fits after “small.”
+- It refers to a vehicle or device where foot pedals steer rather than accelerate/brake, and throttle is by hand—an unusual control layout.
+- Likely from a historical/technical context (e.g., early vehicle, specialized craft).
+- The solution requires locating the exact source or context to retrieve the precise noun rather than inferring from general knowledge.
+
+SOLVER REASONING:
+----------------------------------------
+We’re filling in the noun in the sentence: “The accelerator was controlled via a hand throttle, and the foot pedals controlled the steering in the small ____.”
+
+Among the options, the control scheme described—hand throttle and foot pedals controlling steering—matches a small airplane, where the throttle is hand-operated and the rudder (and nosewheel/tailwheel steering on the ground) is controlled by foot pedals. The other options don’t fit this control layout.
+
+Final Answer: E
+
+SOLVER ANSWER:
+----------------------------------------
+E
+
+CRITIC REASONING:
+----------------------------------------
+I agree with the Solver. In small airplanes, throttle is hand-operated and the foot pedals control the rudder and nosewheel/tailwheel steering, matching the described control scheme.
+
+Confidence: 4
+
+CRITIC CONFIDENCE:
+----------------------------------------
+4
+
+CRITIC SUGGESTED ANSWER:
+----------------------------------------
+None
+
+
+================================================================================
+NEW QUESTION
+================================================================================
+
+Question: Sean was lying about the body, but he was very scared.  He constantly worried about what?
+Answers:
+A. the reward money
+B. hurt feelings
+C. being found out
+D. problems
+E. trouble
+
+PLANNER OUTPUT:
+----------------------------------------
+Analysis plan for Solver
+
+1) Question type
+- Commonsense causal inference with pronoun resolution
+- Infers likely concern based on context of deception and fear
+
+2) Key entities and relationships
+- Sean: subject who is lying
+- The body: object/event about which Sean is lying (implies serious wrongdoing or concealment)
+- Emotional state: very scared
+- Action-state link: Lying + fear → ongoing worry about consequences of being found out
+
+3) Constraints and hints
+- “Lying about the body” strongly suggests concealment of a serious matter (e.g., crime, discovery)
+- “Very scared” and “constantly worried” indicate persistent anxiety tied to potential exposure
+- The question asks “about what?”—seeking the object of Sean’s worry, not the cause of his fear
+
+4) Likely inference space (do not choose yet)
+- Being caught/being found out/exposed
+- Getting in trouble/going to jail/legal consequences
+- Someone discovering the body or discovering his lie
+
+5) Disambiguation cues
+- Most prototypical, concise completion in such narratives: worried about being caught (i.e., his lie being discovered or the body being found), capturing both exposure and consequence.
+
+SOLVER REASONING:
+----------------------------------------
+Sean is lying about a serious matter (“the body”) and is very scared; the most typical ongoing worry in such a scenario is that his lie or involvement will be discovered—i.e., being found out.
+
+Final Answer: C
+
+SOLVER ANSWER:
+----------------------------------------
+C
+
+CRITIC REASONING:
+----------------------------------------
+I agree with the Solver. Given he was lying about a body and very scared, the most natural worry is about being discovered—i.e., being found out.
+
+Confidence: 5
+
+CRITIC CONFIDENCE:
+----------------------------------------
+5
+
+CRITIC SUGGESTED ANSWER:
+----------------------------------------
+None
+
+
+================================================================================
+NEW QUESTION
+================================================================================
+
+Question: The drug kingpin told his man to run errands, this was code to go to all the dealers to do what they had?
+Answers:
+A. park
+B. make time for
+C. receive instructions
+D. take money
+E. leave work
+
+PLANNER OUTPUT:
+----------------------------------------
+Analysis plan for the Solver:
+
+1) Type of question
+- Paraphrase/inference of coded language
+- Seeks the implied action behind a euphemism (“run errands”)
+- Short-answer completion: a concise verb phrase describing what the man was to do
+
+2) Key entities and relationships
+- Drug kingpin (boss) issues an instruction
+- His man (subordinate) is to carry it out
+- Dealers are the targets of the visits
+- Code phrase: “run errands” = visit all dealers
+- Object: “what they had” = the dealers’ holdings (likely money proceeds or product)
+
+3) Constraints and hints
+- “This was code” signals a hidden meaning; the action is illicit but described euphemistically
+- “Go to all the dealers to do what they had?” implies acting upon the dealers’ current holdings
+- Expected answer is a brief action like “collect/pick up” rather than a long explanation
+- Ambiguity: “what they had” could mean money (earnings) or drugs (supply); common colloquial inference in such contexts is to “collect what they had,” especially money
+- Provide a concise phrasing that fits: e.g., “collect what they had” or “pick up what they had (the money)”
+
+SOLVER REASONING:
+----------------------------------------
+“Run errands” is a euphemism for visiting all the dealers to collect what they had. In this context, that typically means collecting the proceeds. Therefore, the intended action is to take the money.
+
+Final Answer: D
+
+SOLVER ANSWER:
+----------------------------------------
+D
+
+CRITIC REASONING:
+----------------------------------------
+I agree with the Solver. In criminal context, “run errands” as code for visiting dealers usually implies collecting their proceeds; “what they had” refers to the money on hand. Thus “take money” fits best among the options.
+
+Confidence: 5
+
+CRITIC CONFIDENCE:
+----------------------------------------
+5
+
+CRITIC SUGGESTED ANSWER:
+----------------------------------------
+None
+
+
+================================================================================
+NEW QUESTION
+================================================================================
+
+Question: Though he could've kept going his body appreciated the rest, it had been constantly what during the day?
+Answers:
+A. walk
+B. lay down
+C. working
+D. moving
+E. exercise
+
+PLANNER OUTPUT:
+----------------------------------------
+Type of question:
+- Fill-in-the-blank/completion based on context
+- Also functions as a causation/justification: why the body appreciated the rest
+
+Key entities and relationships:
+- Subject: “he” / “his body”
+- Action: “appreciated the rest”
+- Time frame: “during the day”
+- Causal relationship: The body appreciated the rest because it had been constantly [X] during the day.
+
+Constraints and hints:
+- The missing piece should explain fatigue or need for rest.
+- Likely grammatical form: a gerund or adjective after “had been constantly,” e.g., “moving,” “working,” “active,” “in motion,” “on the move,” “strained.”
+- Tone suggests physical exertion or continuous activity.
+- It should read smoothly: “it had been constantly [blank] during the day.”
+
+Expected answer format:
+- A concise word or short phrase that fits grammatically and semantically, e.g., “moving,” “active,” “on the move,” “working,” “in motion.”
+
+SOLVER REASONING:
+----------------------------------------
+We need a word that fits “it had been constantly [X] during the day” and explains why the body appreciated rest. “Moving” is the most natural fit; “working” is possible but less idiomatic for “body,” and the other options don’t fit grammatically or semantically.
+
+Final Answer: D
+
+SOLVER ANSWER:
+----------------------------------------
+D
+
+CRITIC REASONING:
+----------------------------------------
+I agree with the Solver. “Moving” fits grammatically after “had been constantly,” and it best explains why the body appreciated rest. Other options are ungrammatical or less idiomatic in this context.
+
+Confidence: 5
+
+CRITIC CONFIDENCE:
+----------------------------------------
+5
+
+CRITIC SUGGESTED ANSWER:
+----------------------------------------
+None
+
+
+================================================================================
+NEW QUESTION
+================================================================================
+
+Question: Too many people want exotic snakes.  The demand is driving what to carry them?
+Answers:
+A. ditch
+B. shop
+C. north america
+D. pet shops
+E. outdoors
+
+PLANNER OUTPUT:
+----------------------------------------
+Question type:
+- Cause-effect/comprehension: identifying what entity is influenced by demand to change behavior.
+
+Key entities and relationships:
+- Entity: exotic snakes (the product)
+- Entity: demand (high demand)
+- Affected entity: businesses that would stock/carry products
+- Relationship: High demand drives businesses to start carrying the product.
+
+Constraints/hints:
+- Phrase structure: “The demand is driving [X] to carry them.”
+- X should be a plural noun referring to sellers/retailers (e.g., “pet stores,” “retailers,” “shops”).
+- Likely concise answer; common collocation is “pet stores” or “retailers.”
+
+SOLVER REASONING:
+----------------------------------------
+The sentence implies that high demand influences sellers to start stocking exotic snakes. The appropriate plural noun referring to retailers is “pet shops.”
+
+Final Answer: D
+
+SOLVER ANSWER:
+----------------------------------------
+D
+
+CRITIC REASONING:
+----------------------------------------
+I agree with the Solver. High demand for exotic snakes would drive retailers to stock them, and “pet shops” is the correct plural noun that fits the sentence.
+
+Confidence: 5
+
+CRITIC CONFIDENCE:
+----------------------------------------
+5
+
+CRITIC SUGGESTED ANSWER:
+----------------------------------------
+None
+
+
+================================================================================
+NEW QUESTION
+================================================================================
+
+Question: Joe suffered many consequences from stabbing a stranger to death.   Among them, the family of the victim did something to him. What was that?
+Answers:
+A. knife wounds
+B. buy a gun
+C. bleeding
+D. jail time
+E. law suit
+
+PLANNER OUTPUT:
+----------------------------------------
+Analysis and plan for the Solver:
+
+1) Question type
+- Detail-specific reading comprehension question.
+- Asks for a particular consequence involving a specific actor (the victim’s family) and their action toward Joe.
+
+2) Key entities and relationships
+- Joe: perpetrator who stabbed a stranger to death.
+- Victim’s family: the group that took an action directed at Joe.
+- Relationship: The family performed an action “to him” (Joe) as one of the consequences of the crime.
+
+3) Constraints and hints
+- The answer must identify exactly what the victim’s family did to Joe.
+- It should be a concise verb phrase or short clause (e.g., “They sued him,” “They forgave him,” “They confronted him,” etc.), taken directly from the source context.
+- Do not mention other consequences unrelated to the family.
+- Ensure the action is initiated by the family (not police/prosecutors) and is described as happening to Joe.
+- Use past tense and keep it brief.
+
+SOLVER REASONING:
+----------------------------------------
+The question asks what the victim’s family did to Joe. Among the options, the only action that the family would typically initiate against him is a lawsuit. Other options (knife wounds, bleeding, jail time) are not actions by the family.
+
+Final Answer: E
+
+SOLVER ANSWER:
+----------------------------------------
+E
+
+CRITIC REASONING:
+----------------------------------------
+I agree with the Solver. The only action the victim’s family would plausibly take against Joe among the options is filing a lawsuit, making E the correct choice.
+
+Confidence: 5
+
+CRITIC CONFIDENCE:
+----------------------------------------
+5
+
+CRITIC SUGGESTED ANSWER:
+----------------------------------------
+None
+
+
+================================================================================
+NEW QUESTION
+================================================================================
+
+Question: To prevent any glare during the big football game he made sure to clean the dust of his what?
+Answers:
+A. television
+B. attic
+C. corner
+D. they cannot clean corner and library during football match they cannot need that
+E. ground
+
+PLANNER OUTPUT:
+----------------------------------------
+Analysis plan for Solver
+
+1) Question type
+- Commonsense fill-in-the-blank (cause-effect/goal-action). The action (cleaning dust) is done to achieve a goal (prevent glare) in a specific context (watching a big football game).
+
+2) Key entities and relationships
+- Entities: 
+  - “he” (the viewer)
+  - “big football game” (viewing event)
+  - “glare” (undesired visual effect)
+  - “dust” (cause contributing to glare)
+  - Target object to be cleaned (unspecified; belongs to “his”)
+- Relationships:
+  - Cleaning dust off an object reduces glare when viewing the game.
+  - The object is something he owns and views the game through or on.
+
+3) Constraints/hints
+- Context implies watching the game at home or on a device.
+- “Prevent glare” suggests a reflective/display surface where dust exacerbates glare.
+- Object must plausibly accumulate dust and affect viewing quality.
+- Wording “clean the dust off his …” fits common collocations like “screen,” “TV,” “television screen,” “monitor,” or “glasses.”
+
+4) Plausible candidates (ranked by typicality)
+- Television/TV screen (most common for watching a big game; dust on screen increases glare).
+- Screen/monitor (generic display).
+- Glasses (can cause glare when watching, but less directly tied to “big football game” context than TV).
+- Projector screen (possible but less common).
+
+5) Disambiguation cues
+- The phrase “during the big football game” strongly implies watching on a TV; “glare” + “dust” commonly collocate with “TV screen.”
+- The possessive “his” supports “his TV/television screen” more than a shared household object like a wall or window, though windows can cause glare but are not commonly cleaned “of dust” to prevent screen glare right before a game.
+
+Deliverable expected
+- Provide the single most context-appropriate noun phrase (likely “TV/television screen”).
+
+SOLVER REASONING:
+----------------------------------------
+Glare while watching a big football game would come from a reflective/display surface, and cleaning dust off the viewing device reduces glare. The most context-appropriate object is his television.
+
+Final Answer: A
+
+SOLVER ANSWER:
+----------------------------------------
+A
+
+CRITIC REASONING:
+----------------------------------------
+I agree with the Solver. Cleaning dust off a television screen is a sensible way to reduce glare when watching a big game; the other options are irrelevant or nonsensical.
+
+Confidence: 5
+
+CRITIC CONFIDENCE:
+----------------------------------------
+5
+
+CRITIC SUGGESTED ANSWER:
+----------------------------------------
+None
+
+
+================================================================================
+NEW QUESTION
+================================================================================
+
+Question: I have something in my head I want to share, what ways can I do that?
+Answers:
+A. write an essay
+B. organize thoughts
+C. speak information
+D. summarize main points
+E. have information
+
+PLANNER OUTPUT:
+----------------------------------------
+Analysis for Solver
+
+1) Type of question
+- Open-ended brainstorming/ideation question
+- Seeks methods/strategies (how-to) rather than a single factual answer
+- Potentially needs categorization and decision guidance
+
+2) Key entities and relationships
+- “Something in my head”: could be an idea, story, feeling, plan, memory, design, concern
+- “Share”: communicate or externalize to self or others
+- “Ways”: channels, media, formats, tools
+- Audience: self, one person, small group, public/online
+- Context dimensions: synchronous vs asynchronous, private vs public, anonymous vs attributed, quick vs polished, ephemeral vs permanent, feedback vs broadcast
+- Constraints to consider: privacy/IP, emotional sensitivity, accessibility, available devices/tools, time/effort, need for collaboration
+
+3) Constraints/hints in wording
+- No explicit constraints; broad request invites a comprehensive menu of options
+- Implies desire for practical, actionable methods
+- Requires clarifying questions to tailor (audience, purpose, privacy, format)
+
+4) Plan for response
+- Start with a short overview: sharing = picking a medium + audience + level of polish.
+- Ask 4–6 concise clarifying questions:
+  - What is it (idea/feeling/story/design)? Who’s the audience?
+  - Need feedback or just to get it out?
+  - Prefer private, anonymous, or public?
+  - Text, voice, visual, or video feel natural?
+  - Time available and desired permanence?
+- Provide a categorized list of ways to share, each with examples and when to use:
+  - Verbal/synchronous: in-person chat, phone/video call, voice notes
+  - Written/asynchronous: journal, note app, email, messaging, blog, newsletter
+  - Visual: sketching, diagrams, mind maps, whiteboards, slide decks, mood boards
+  - Audio/video: voice memos, podcast-style recording, screen capture, short video
+  - Collaborative: Google Docs/Notion, shared whiteboards (Miro/FigJam), forums/Slack/Discord
+  - Broadcast/public: social posts, Medium/Substack, YouTube/TikTok, open-source repos
+  - Anonymous/private: anonymous feedback forms, alt accounts, encrypted messengers, NDAs
+  - Creative forms: poem, song, comic, prototype, code snippet, demo
+- Include a quick decision guide:
+  - Need quick brain dump → voice memo or notes app
+  - Need structured feedback → shared doc with comments
+  - Need to visualize → sketch/mind map/whiteboard
+  - Sensitive topic → trusted person, encrypted chat, or anonymous outlet
+  - Preserve/publish → blog/newsletter/video
+- Add a simple 4-step workflow for externalizing:
+  1) Brain dump (no filter)
+  2) Cluster and title main points
+  3) Choose medium based on audience/privacy/time
+  4) Share a small draft/pilot, then iterate
+- Mention privacy/IP and safety:
+  - Avoid posting proprietary ideas publicly; consider NDA or provisional patent if relevant
+  - If content is emotionally heavy, suggest trusted contacts or helplines (without assuming crisis)
+- Offer to tailor with templates or tool suggestions once user answers clarifying questions.
+
+SOLVER REASONING:
+----------------------------------------
+The question asks for ways to share what's in your head. Among the options:
+- Writing an essay is a sharing medium.
+- Speaking information is a direct way to share.
+- Summarizing main points is also a communicative method.
+Organizing thoughts is preparatory rather than sharing itself, and having information isn’t a method of sharing.
+
+Final Answer: A, C, D
+
+SOLVER ANSWER:
+----------------------------------------
+A
+
+CRITIC REASONING:
+----------------------------------------
+I disagree. The question asks for ways to share; A (write an essay), C (speak information), and D (summarize main points) are valid ways. B is preparatory, and E is not a sharing method. The Solver only chose A, omitting C and D.
+
+Confidence: 1
+Suggested Answer: A, C, D
+
+CRITIC CONFIDENCE:
+----------------------------------------
+1
+
+CRITIC SUGGESTED ANSWER:
+----------------------------------------
+A
+
+
+================================================================================
+NEW QUESTION
+================================================================================
+
+Question: He wanted a house that was gated off from other places, where should he start looking?
+Answers:
+A. neighborhood
+B. subdivision
+C. city
+D. suburbs
+E. street
+
+PLANNER OUTPUT:
+----------------------------------------
+Type of question:
+- Commonsense/location recommendation (wh-question asking “where” to find something that meets a condition)
+
+Key entities and relationships:
+- Subject: “He” (a home seeker)
+- Object: “a house”
+- Desired attribute: “gated off from other places” (implies controlled access, separation, privacy/security)
+- Relationship: The house should be within an area that is physically gated/controlled
+
+Constraints/hints:
+- “Gated off” strongly implies a neighborhood or development with perimeter gates and restricted entry
+- No budget, region, or size constraints provided
+- Looking for where to start searching, not detailed steps
+
+Guidance for Solver (direction of the answer):
+- Primary recommendation: “a gated community” (also called a gated subdivision or private/guarded community)
+- Acceptable variants: “guarded estate,” “private community,” “secure subdivision,” “managed residential compound”
+- Briefly explain that these neighborhoods have controlled entrances and perimeter fencing, matching the “gated off” requirement
+- Optionally suggest starting with real estate listings filtered for “gated community” or contacting local realtors who specialize in such developments
+
+SOLVER REASONING:
+----------------------------------------
+“Gated off from other places” points to a gated community, which is typically a gated subdivision with controlled entrances and perimeter fencing. Among the options, “subdivision” best matches that concept.
+
+Final Answer: B
+
+SOLVER ANSWER:
+----------------------------------------
+B
+
+CRITIC REASONING:
+----------------------------------------
+I agree with the Solver. “Gated off” most closely matches a gated community, which is typically a gated subdivision with controlled entrances, making B the best fit among the options.
+
+Confidence: 4
+
+CRITIC CONFIDENCE:
+----------------------------------------
+4
+
+CRITIC SUGGESTED ANSWER:
+----------------------------------------
+None
+
+
+================================================================================
+NEW QUESTION
+================================================================================
+
+Question: Where in Southern Europe would you find many canals?
+Answers:
+A. michigan
+B. new york
+C. amsterdam
+D. venice
+E. bridge
+
+PLANNER OUTPUT:
+----------------------------------------
+- Question type: Geographic identification (general knowledge), seeking a specific place name
+- Task: Identify a location in Southern Europe that is famously characterized by having many canals
+- Key entities:
+  - Region: Southern Europe
+  - Feature: many canals (defining characteristic)
+- Relationship: Find the notable place within Southern Europe that is well-known for extensive canals
+- Constraints/hints:
+  - Singular “Where” suggests a specific city/location rather than multiple
+  - “Many canals” implies a place whose identity/tourism is strongly tied to canals
+  - Must be in Southern Europe (exclude well-known canal cities outside this region)
+- Expected answer format: A city (and optionally country) name within Southern Europe known for its canals
+
+SOLVER REASONING:
+----------------------------------------
+We need a location in Southern Europe known for many canals. Among the options, Venice is the famous canal city in Southern Europe (Italy). Amsterdam is known for canals but is in Northwestern Europe. The others are not cities fitting the clue.
+
+Final Answer: D
+
+SOLVER ANSWER:
+----------------------------------------
+D
+
+CRITIC REASONING:
+----------------------------------------
+I agree with the Solver. Venice is the iconic Southern European city renowned for its many canals; Amsterdam is not in Southern Europe, and the other options are irrelevant.
+
+Confidence: 5
+
+CRITIC CONFIDENCE:
+----------------------------------------
+5
+
+CRITIC SUGGESTED ANSWER:
+----------------------------------------
+None
+
+
+================================================================================
+NEW QUESTION
+================================================================================
+
+Question: What would a camper need to do before he or she can start cooking food?
+Answers:
+A. make breakfast
+B. go hiking
+C. pack or bag
+D. light fire
+E. grab a match
+
+PLANNER OUTPUT:
+----------------------------------------
+Analysis for Solver
+
+1) Question type
+- Commonsense/prerequisite (before-after) procedural question
+- Seeks the key precondition action required prior to an activity
+
+2) Key entities and relationships
+- Agent: a camper (implies outdoor/camping context)
+- Activity: start cooking food
+- Relationship: prerequisite needed before cooking can begin
+
+3) Constraints and hints
+- “Before he or she can start” signals a necessary precondition
+- “Camper” suggests cooking in the outdoors, typically requiring a heat source not already available
+- Likely expects a single, core prerequisite rather than multiple setup steps
+
+4) Implicit knowledge
+- Cooking requires a heat source; in camping, this is commonly a campfire or a camp stove
+- If using a fire: may also entail gathering wood, then lighting the fire
+- If using a stove: set up and ignite the stove
+
+5) Candidate answers (ranked by likelihood for a concise expected answer)
+- Primary: start/build/light a fire (have a heat source)
+- Secondary: gather firewood (a prerequisite to making a fire)
+- Alternative: set up/ignite a camp stove
+
+6) Recommendation for phrasing
+- Provide a concise, singular prerequisite focusing on the heat source, e.g., “start/build a fire.”
+
+SOLVER REASONING:
+----------------------------------------
+The key prerequisite to cooking while camping is having a heat source. Among the choices, “light fire” directly provides the necessary heat for cooking, making it the most appropriate step to do before starting to cook.
+
+Final Answer: D
+
+SOLVER ANSWER:
+----------------------------------------
+D
+
+CRITIC REASONING:
+----------------------------------------
+I agree with the Solver. Cooking while camping typically requires a heat source, and “light fire” is the direct prerequisite. “Grab a match” is a possible sub-step but not sufficient by itself.
+
+Confidence: 5
+
+CRITIC CONFIDENCE:
+----------------------------------------
+5
+
+CRITIC SUGGESTED ANSWER:
+----------------------------------------
+None
+
+
+================================================================================
+NEW QUESTION
+================================================================================
+
+Question: What could happen to a paper if you leave it outside even if it does not move?
+Answers:
+A. one material often recycled
+B. ripped
+C. saturated with water
+D. one dimensional
+E. crumpled
+
+PLANNER OUTPUT:
+----------------------------------------
+Analysis for Solver
+
+1) Question type
+- Everyday cause-effect/predictive reasoning
+- Asking for a plausible outcome of a scenario
+
+2) Key entities and relationships
+- Entity: a piece of paper
+- Context: left outside
+- Condition: “even if it does not move” (i.e., not blown away)
+- Relationship: Environmental exposure causes changes/damage to the paper
+
+3) Constraints and hints
+- Emphasis on “does not move” suggests excluding outcomes like “blown away”
+- Focus on effects from outdoor elements (weather, sunlight, moisture, dirt) rather than motion
+- Open-ended “what could happen” invites one or a few common consequences
+
+4) Expected answer scope
+- Mention one or more likely effects of outdoor exposure without movement, e.g.:
+  - Getting wet/soggy from rain or dew
+  - Getting dirty/soiled
+  - Fading/discoloration from sunlight
+  - Becoming brittle/warped from sun or moisture
+  - Mold/mildew if damp
+- Keep it concise; a single clear example may suffice (e.g., “It could get wet”).
+
+SOLVER REASONING:
+----------------------------------------
+Leaving paper outside exposes it to weather and moisture; even if it doesn’t move, rain or dew can make it wet and soggy.
+
+Final Answer: C
+
+SOLVER ANSWER:
+----------------------------------------
+C
+
+CRITIC REASONING:
+----------------------------------------
+I agree with the Solver. Leaving paper outside exposes it to rain or dew; even without moving, it could become saturated with water. Other options imply motion or are irrelevant.
+
+Confidence: 5
+
+CRITIC CONFIDENCE:
+----------------------------------------
+5
+
+CRITIC SUGGESTED ANSWER:
+----------------------------------------
+None
+
+
+================================================================================
+NEW QUESTION
+================================================================================
+
+Question: Mark's semen was very thick, but after his vasectomy it was also what?
+Answers:
+A. blank
+B. sparse
+C. thin
+D. clear
+E. free flowing
+
+PLANNER OUTPUT:
+----------------------------------------
+- Question type: Comparative/cause-effect with a fill-in-the-blank style ending (“also what?”), expecting a descriptive property after an event.
+- Key entities:
+  - Mark (subject)
+  - Semen (object being described)
+  - Vasectomy (intervening procedure/event)
+- Relationships:
+  - Before: semen described as “very thick”
+  - After vasectomy: semen had an additional property (“also [X]”)
+- Constraints/hints:
+  - The structure suggests a short adjective/descriptor.
+  - Real-world knowledge: Vasectomy typically does not change semen volume/viscosity/appearance significantly; it removes sperm from ejaculate. Common descriptors post-vasectomy would be “sperm-free,” “sterile,” or “infertile.”
+  - Likely answer format: a single word or brief phrase describing semen’s status after vasectomy.
+
+SOLVER REASONING:
+----------------------------------------
+The Planner notes that vasectomy doesn’t significantly change semen’s viscosity or appearance but does remove sperm, making it effectively “sperm-free.” Among the choices, the best match to that idea is “clear,” as the others imply changes in thickness or quantity, which aren’t indicated.
+
+Final Answer: D
+
+SOLVER ANSWER:
+----------------------------------------
+D
+
+CRITIC REASONING:
+----------------------------------------
+I disagree. Vasectomy does not make semen “clear”; it remains similar in appearance but is sperm-free. The question likely plays on “shooting blanks,” so “blank” fits best among the options.
+
+Confidence: 2
+Suggested Answer: A
+
+CRITIC CONFIDENCE:
+----------------------------------------
+2
+
+CRITIC SUGGESTED ANSWER:
+----------------------------------------
+A
+
+
+================================================================================
+NEW QUESTION
+================================================================================
+
+Question: What is a great place to lay in the sun?
+Answers:
+A. in the basement
+B. west
+C. solar system
+D. beach
+E. beans
+
+PLANNER OUTPUT:
+----------------------------------------
+Analysis for Solver
+
+1) Question type
+- Common-sense location identification (open-ended, single best example)
+- Likely expecting a short, generic noun answer
+
+2) Key entities and relationships
+- Entity: “place” (location)
+- Context/activity: “lay in the sun” (sunbathing/relaxing)
+- Relationship: A location that is popularly associated with sun exposure and relaxation
+
+3) Constraints and hints
+- Phrase “great place” implies an ideal, widely recognized option
+- No specific location given; expects a general, common noun
+- Collocational hint: “lay/lie in the sun” commonly evokes “the beach” (also possible: “poolside,” “patio,” “park,” “backyard,” but “beach” is the prototypical/most common)
+
+SOLVER REASONING:
+----------------------------------------
+The question asks for a common, ideal location associated with sunbathing. Among the options, “beach” is the prototypical place people go to lie in the sun.
+
+Final Answer: D
+
+SOLVER ANSWER:
+----------------------------------------
+D
+
+CRITIC REASONING:
+----------------------------------------
+I agree with the Solver. “Beach” is the most common and appropriate place to lie in the sun; the other options are not suitable locations.
+Confidence: 5
+
+CRITIC CONFIDENCE:
+----------------------------------------
+5
+
+CRITIC SUGGESTED ANSWER:
+----------------------------------------
+None
+
+
+================================================================================
+NEW QUESTION
+================================================================================
+
+Question: Where would you find a seafood restaurant in the east coast of North America?
+Answers:
+A. maine
+B. boston
+C. beach town
+D. coastal cities
+E. ocean
+
+PLANNER OUTPUT:
+----------------------------------------
+Analysis and plan for the Solver
+
+1) Question type
+- Open-ended location/recommendation query asking where to find something (seafood restaurants) within a broad geographic region.
+- Implicitly a “where to go/find” guidance question, not a single factual answer.
+
+2) Key entities and relationships
+- Entity: seafood restaurant (establishments serving seafood).
+- Region: east coast of North America (Atlantic Canada + U.S. East Coast).
+- Relationship: locations within that region where seafood restaurants are commonly found or notable hotspots.
+
+3) Constraints and hints
+- Very broad scope; no specific city, budget, style, or travel constraints.
+- “Where would you find” suggests general types of places (waterfronts, harbors, fishing towns) and representative examples.
+- Good to provide a concise set of regional examples across the coast (Canada to Florida) and typical venues (piers, markets, boardwalks).
+- Offer brief local specialties to anchor suggestions (e.g., Maine lobster, Maryland blue crab).
+- Suggest a quick method to find options (maps/search) and ask a clarifying follow-up (preferred country/city, price range, casual vs. upscale).
+
+Proposed structure for the answer
+- One-sentence overview: you can find them in most coastal cities/towns along the Atlantic seaboard.
+- Bullet list of representative hotspots by subregion:
+  - Atlantic Canada: Halifax (NS), St. John’s (NL), Charlottetown (PEI).
+  - New England: Portland (ME), Boston/Cape Cod (MA), Newport (RI).
+  - Mid-Atlantic: NYC coastal boroughs, Jersey Shore, Chesapeake Bay (Baltimore/Annapolis), Outer Banks (NC).
+  - Southeast: Charleston (SC), Savannah (GA).
+  - Florida East Coast: Jacksonville, Daytona, West Palm Beach, Fort Lauderdale, Miami.
+- Note typical places to look within cities: waterfronts, fishing piers, harbor districts, fish markets/wharves, boardwalks.
+- Quick tip: use maps with “seafood restaurant near me” + filters/reviews/local specialties.
+- Clarifying question to narrow recommendations (which city/area, budget, casual vs. upscale, specific seafood interests).
+
+SOLVER REASONING:
+----------------------------------------
+The question asks broadly where you’d find seafood restaurants along the East Coast; the most generally correct choice is places along the coast where cities and towns are located, which aligns with “most coastal cities/towns along the Atlantic seaboard.” Therefore, “coastal cities” best fits.
+
+Final Answer: D
+
+SOLVER ANSWER:
+----------------------------------------
+D
+
+CRITIC REASONING:
+----------------------------------------
+I agree with the Solver. Among the options, “coastal cities” is the most generally correct and comprehensive place to find seafood restaurants along the East Coast, encompassing beach towns and major hubs, unlike specific places (Maine, Boston) or the incorrect “ocean.”
+
+Confidence: 5
+
+CRITIC CONFIDENCE:
+----------------------------------------
+5
+
+CRITIC SUGGESTED ANSWER:
+----------------------------------------
+None
+
+
+================================================================================
+NEW QUESTION
+================================================================================
+
+Question: The president is the leader of what institution?
+Answers:
+A. walmart
+B. white house
+C. country
+D. corporation
+E. government
+
+PLANNER OUTPUT:
+----------------------------------------
+Analysis for Solver
+
+1) Question type
+- Simple factual recall (definition/role identification)
+- Likely a basic civics/general knowledge question
+- Expected answer format: a short noun phrase naming an institution
+
+2) Key entities and relationships
+- Entity: “the president” (likely referring to the President of the United States, though not explicitly stated)
+- Relationship: “is the leader of”
+- Target entity: “what institution?” (the institution the president heads)
+
+3) Constraints, hints, and considerations
+- No country specified; common default in civics contexts is the U.S.
+- In U.S. civics, the President is the head/leader of the Executive Branch of the federal government.
+- Potential pitfalls: Don’t confuse with roles like “Commander in Chief of the Armed Forces” (a role, not the institution asked), or with “the country/nation” (too broad), or “the government” (imprecise).
+- Provide a concise, precise institutional name.
+- If ambiguity is a concern, specifying “of the United States federal government” may be appropriate.
+
+SOLVER REASONING:
+----------------------------------------
+The question is a basic civics recall asking which institution the president leads. In common U.S. civics context, the President is the head of the executive branch of the federal government. Among the given choices, the closest and correct institutional label is “government.”
+
+Final Answer: E
+
+SOLVER ANSWER:
+----------------------------------------
+E
+
+CRITIC REASONING:
+----------------------------------------
+I agree with the Solver. The question asks for an institution, and among the choices, “government” best fits; “country” is not an institution, and the President leads the executive branch of the government.
+
+Confidence: 4
+
+CRITIC CONFIDENCE:
+----------------------------------------
+4
+
+CRITIC SUGGESTED ANSWER:
+----------------------------------------
+None
+
+
+================================================================================
+NEW QUESTION
+================================================================================
+
+Question: Sitting to close while watching TV can cause what sort of pain?
+Answers:
+A. brain problems
+B. laziness
+C. get fat
+D. headache
+E. laughter
+
+PLANNER OUTPUT:
+----------------------------------------
+Analysis Plan
+
+1) Question type
+- Cause-effect question asking for a specific outcome (type of pain) resulting from a behavior.
+
+2) Key entities and relationships
+- Behavior: sitting too close while watching TV
+- Outcome: causes a certain type of pain
+- Relationship: proximity to screen → visual/physical strain → pain
+
+3) Constraints and hints
+- Wording suggests a single, common pain type (“what sort of pain?”)
+- Likely focuses on immediate, commonly recognized effects rather than rare conditions
+- Context implies visual strain from close viewing distance
+
+4) Guidance for Solver
+- Prioritize the most commonly cited pain associated with close TV viewing: eye strain (eye pain), potentially leading to headaches.
+- Provide a concise primary answer (e.g., “eye strain”), with optional brief note that it can also cause headaches.
+
+SOLVER REASONING:
+----------------------------------------
+Sitting too close to a TV commonly causes visual strain that can lead to headaches. Among the given options, “headache” is the relevant type of pain.
+
+Final Answer: D
+
+SOLVER ANSWER:
+----------------------------------------
+D
+
+CRITIC REASONING:
+----------------------------------------
+I agree with the Solver. Sitting too close to the TV can cause eye strain that often leads to headaches, and “headache” is the only pain-related option provided.
+
+Confidence: 5
+
+CRITIC CONFIDENCE:
+----------------------------------------
+5
+
+CRITIC SUGGESTED ANSWER:
+----------------------------------------
+None
+
+
+================================================================================
+NEW QUESTION
+================================================================================
+
+Question: Where is a bald eagle safe?
+Answers:
+A. pine tree
+B. open country
+C. in washington
+D. wildlife refuge
+E. sky
+
+PLANNER OUTPUT:
+----------------------------------------
+Analysis plan for the question: “Where is a bald eagle safe?”
+
+1) Question type
+- Open-ended “where” question asking for a location or context.
+- Potentially ambiguous: could be factual (ecology/law), normative (protection), or a riddle/wordplay.
+
+2) Key entities and relationships
+- Entity: “bald eagle” (species, Haliaeetus leucocephalus).
+- Predicate/relationship: “is safe” (implies protection from harm, legal protection, suitable habitat, or sanctuary).
+- Relationship sought: location or context in which the bald eagle experiences safety.
+
+3) Constraints and hints
+- No explicit constraints given (no region, timeframe, or domain).
+- The brevity suggests multiple plausible interpretations:
+  a) Ecological: safe habitats (nesting sites, remote areas, protected ecosystems).
+  b) Legal: jurisdictions with strong protections (e.g., U.S. under the Bald and Golden Eagle Protection Act; also protections in Canada/Mexico).
+  c) Conservation infrastructure: wildlife refuges, national parks, sanctuaries, protected nesting buffers.
+  d) Riddle/wordplay: could intend a clever or unexpected location (uncertain without context).
+
+4) Ambiguities to resolve (clarifying questions the Solver may need)
+- Do you mean ecological safety (natural habitat), legal safety (where laws protect it), or a riddle/figurative answer?
+- Are you asking about a specific country/region?
+- Do you want general categories (e.g., “wildlife refuges”) or named places?
+
+5) Expected answer format
+- A concise location/context response (e.g., “in protected habitats such as national wildlife refuges in the U.S., where it is legally protected”).
+- Could include brief justification if factual route is chosen.
+
+SOLVER REASONING:
+----------------------------------------
+The question asks for a location or context where a bald eagle would be “safe,” which most naturally points to protected areas designed for wildlife protection. Among the choices, a wildlife refuge is explicitly a protected conservation area, making it the best fit for where a bald eagle would be safe.
+
+Final Answer: D
+
+SOLVER ANSWER:
+----------------------------------------
+D
+
+CRITIC REASONING:
+----------------------------------------
+I agree with the Solver. A wildlife refuge is a protected area specifically intended to keep wildlife, including bald eagles, safe from harm, making D the best choice among the options.
+
+Confidence: 5
+
+CRITIC CONFIDENCE:
+----------------------------------------
+5
+
+CRITIC SUGGESTED ANSWER:
+----------------------------------------
+None
+
+
+================================================================================
+NEW QUESTION
+================================================================================
+
+Question: The game promised it was free, but the child's parents soon found themselves doing what for microtransactions?
+Answers:
+A. costly
+B. captive
+C. contained
+D. paying
+E. caught
+
+PLANNER OUTPUT:
+----------------------------------------
+Analysis
+
+1) Question type:
+- Cause-effect/contrast comprehension. It asks for the resulting action that contradicts the “free” promise.
+- Short-answer phrase in gerund form (because of “found themselves doing what”).
+
+2) Key entities and relationships:
+- Entity 1: “The game” (claimed to be free).
+- Entity 2: “the child's parents.”
+- Entity 3: “microtransactions.”
+- Relationship: Despite the game being advertised as free, the parents ended up performing an action related to microtransactions. The contrast implies they incurred costs.
+
+3) Constraints and hints:
+- The phrase “found themselves doing what” suggests the answer should be a concise action/gerund (e.g., “paying,” “spending money,” “shelling out money”).
+- Context of “microtransactions” implies monetary expenditure, typically real money.
+- Keep it brief and likely in present participle form. Potential acceptable phrasings:
+  - “paying for microtransactions”
+  - “spending money on microtransactions”
+  - “shelling out money for microtransactions”
+  - “forking over cash for microtransactions”
+
+SOLVER REASONING:
+----------------------------------------
+The sentence sets up a contrast: although the game was advertised as free, the parents ended up having to spend money. The prompt “found themselves doing what” calls for a gerund describing that action. Among the choices, only “paying” fits both the grammatical form and the context of microtransactions.
+
+Final Answer: D
+
+SOLVER ANSWER:
+----------------------------------------
+D
+
+CRITIC REASONING:
+----------------------------------------
+I agree with the Solver. “Found themselves doing what” calls for a gerund; “paying” fits grammatically and contextually with microtransactions, reflecting the contradiction to “free.”
+
+Confidence: 5
+
+CRITIC CONFIDENCE:
+----------------------------------------
+5
+
+CRITIC SUGGESTED ANSWER:
+----------------------------------------
+None
+
+
+================================================================================
+NEW QUESTION
+================================================================================
+
+Question: What kind of driving leads to accidents?
+Answers:
+A. stressful
+B. dangerous
+C. fun
+D. illegal
+E. deadly
+
+PLANNER OUTPUT:
+----------------------------------------
+Analysis for Solver
+
+1) Question type
+- Cause-effect/definition-style prompt, likely expecting a short phrase naming a category of driving that causes accidents
+- Could also be a fill-in-the-blank style with a single adjective before “driving”
+
+2) Key entities and relationships
+- Entity: “driving” (qualifiers/types: reckless, rash, careless, distracted, drunk, aggressive, speeding, negligent)
+- Outcome: “accidents”
+- Relationship: Type of driving (cause) leads to accidents (effect)
+
+3) Constraints/hints in wording
+- Singular, general phrasing: “What kind of driving” suggests one concise term
+- No context, region, or legal framing provided
+- Likely expects a commonly accepted term; in some regions “rash driving” is standard (e.g., Indian English), while “reckless driving” is common in US/UK contexts
+
+4) Expected answer format
+- Very brief: a single adjective + “driving” (e.g., “reckless driving”)
+- Alternatively, a short list could be acceptable if broad interpretation is intended, but the wording implies one main kind
+
+5) Ambiguities/clarifications needed (if allowed)
+- Regional/linguistic preference (rash vs reckless)
+- Whether they want the most common single cause-term or multiple examples (distracted, drunk, speeding, etc.)
+
+6) Suggested approach
+- Provide one concise, widely recognized term as the primary answer
+- Optionally, if space allows, acknowledge a couple of common variants depending on region (only if multiple allowed)
+

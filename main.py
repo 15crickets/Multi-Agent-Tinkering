@@ -9,9 +9,9 @@ import re
 
 dataset = load_dataset("commonsense_qa")
 
-question = dataset["train"][0]["question"]
+question = dataset["train"][1]["question"]
 
-answer = dataset["train"][0]["choices"]
+answer = dataset["train"][1]["choices"]
 
 answer_key_lines = []
 
@@ -23,22 +23,6 @@ answer_key = "\n".join(answer_key_lines)
 full_question = f"""Question: {question} \n Answers: {answer_key}"""
 
 client = OpenAI()
-
-response = client.responses.create(
-    model="gpt-5-nano",
-    input="Write a one-sentence bedtime story about a unicorn."
-)
-
-print(response.output_text)
-
-"""
-response = client.responses.create(
-    model="gpt-5",
-    reasoning={"effort": "low"},
-    instructions="Talk like a pirate.",
-    input="Are semicolons optional in JavaScript?",
-)
-"""
 
 
 class Agent:
@@ -53,10 +37,10 @@ class Agent:
             model="gpt-5",
             reasoning={"effort": "low"},
             instructions=prompt,
-            input=input_state,  # added required input
+            input=input_state,
         )
 
-        return self.parse_output(response.output_text)  # pass text, not object
+        return self.parse_output(response.output_text)
 
     def construct_prompt(self, input_state):
         return f"System Prompt:\n{self.system_prompt}\n\nTask Info:\n{input_state}\nInstructions: Respond appropriately."
@@ -66,17 +50,16 @@ class Agent:
             return {"plan": response}
 
         elif self.name == "Solver":
-            # extract final answer from solver
             match = re.search(r'Final Answer: (\w)', response)
             return {"solver_text": response, "final_answer": match.group(1) if match else None}
 
         elif self.name == "Critic":
-            # extract confidence and suggested answer
             conf_match = re.search(r'Confidence: (\d)', response)
             ans_match = re.search(r'Suggested Answer: (\w)', response)
             return {
                 "confidence": int(conf_match.group(1)) if conf_match else None,
-                "suggested_answer": ans_match.group(1) if ans_match else None
+                "suggested_answer": ans_match.group(1) if ans_match else None,
+                "critic_reasoning": response   # <-- ADDED
             }
 
 
@@ -94,31 +77,68 @@ Do NOT introduce new facts or assumptions.
 Output your reasoning, then on the last line write 'Final Answer: X' where X is your choice.
 """
 
-critic_prompt = """You are the Critic agent. Review the Planner and Solver outputs. 
-1. Rate your confidence that the Solver's answer is correct on a scale 1–5 (Confidence: X). 
-2. If confidence <=2, suggest an alternative multiple choice answer (Suggested Answer: Y). 
-Analyze reasoning before suggesting any answer. 
-Output exactly in this structure, one line for Confidence and optionally one line for Suggested Answer.
+critic_prompt = """You are the Critic agent. Review the Planner and Solver outputs.
+
+First, provide a short explanation of whether you agree with the Solver's answer or not, and why.
+Then:
+1. Rate your confidence that the Solver's answer is correct on a scale 1–5 (Confidence: X).
+2. If confidence <=2, suggest an alternative multiple choice answer (Suggested Answer: Y).
+
+Output format:
+- One or more lines of explanation.
+- One line: Confidence: X
+- Optional line: Suggested Answer: Y
 """
 
+planner_agent = Agent("Planner", planner_prompt)
+solver_agent = Agent("Solver", solver_prompt)
+critic_agent = Agent("Critic", critic_prompt)
 
-def orchestrator(input_question):
-    planner_agent = Agent("Planner", planner_prompt)
-    solver_agent = Agent("Solver", solver_prompt)
-    critic_agent = Agent("Critic", critic_prompt)
+def orchestrator(input_question, input_question_answer, planner_agent, solver_agent, critic_agent):
+    log_file = "orchestrator_log.txt"
 
-    planner_output = planner_agent.run(input_question)
+    with open(log_file, "a", encoding="utf-8") as f:
+        f.write("\n" + "=" * 80 + "\n")
+        f.write("NEW QUESTION\n")
+        f.write("=" * 80 + "\n\n")
 
-    plan = planner_output["plan"]
+        planner_output = planner_agent.run(input_question)
+        plan = planner_output["plan"]
 
-    solver_input = f"""Question: {input_question}. Planner Output: {plan}"""
-    solver_output = solver_agent.run(solver_input)
+        f.write(input_question_answer + "\n\n")
 
-    solver_reasoning = solver_output["solver_text"]
-    solver_answer = solver_output["final_answer"]
+        f.write("PLANNER OUTPUT:\n")
+        f.write("-" * 40 + "\n")
+        f.write(plan + "\n\n")
 
-    critic_string = f"""Planner Output: {plan}. Solver Reasoning {solver_reasoning}. Solver Final Answer: {solver_answer}"""
-    critic_output = critic_agent.run(critic_string)
+        solver_input = f"""Question: {input_question_answer}. Planner Output: {plan}"""
+        solver_output = solver_agent.run(solver_input)
+
+        solver_reasoning = solver_output["solver_text"]
+        solver_answer = solver_output["final_answer"]
+
+        f.write("SOLVER REASONING:\n")
+        f.write("-" * 40 + "\n")
+        f.write(solver_reasoning + "\n\n")
+
+        f.write("SOLVER ANSWER:\n")
+        f.write("-" * 40 + "\n")
+        f.write(str(solver_answer) + "\n\n")
+
+        critic_string = f"""Question: {input_question_answer}. Planner Output: {plan}. Solver Reasoning {solver_reasoning}. Solver Final Answer: {solver_answer}"""
+        critic_output = critic_agent.run(critic_string)
+
+        f.write("CRITIC REASONING:\n")
+        f.write("-" * 40 + "\n")
+        f.write(critic_output["critic_reasoning"] + "\n\n")
+
+        f.write("CRITIC CONFIDENCE:\n")
+        f.write("-" * 40 + "\n")
+        f.write(str(critic_output["confidence"]) + "\n\n")
+
+        f.write("CRITIC SUGGESTED ANSWER:\n")
+        f.write("-" * 40 + "\n")
+        f.write(str(critic_output["suggested_answer"]) + "\n\n")
 
     if critic_output["confidence"] is not None and critic_output["confidence"] <= 2:
         final_answer = critic_output.get("suggested_answer", solver_answer)
@@ -128,5 +148,34 @@ def orchestrator(input_question):
     return final_answer
 
 
-result = orchestrator(full_question)
-print(result)
+
+
+results = []
+answers = []
+
+for i in range(150):
+    q = dataset["train"][i]["question"]
+    answers.append(dataset["train"][i]["answerKey"])
+    choices = dataset["train"][i]["choices"]
+
+    answer_key = "\n".join(
+        f"{l}. {t}" for l, t in zip(choices["label"], choices["text"])
+    )
+
+    full_question = f"Question: {q}\nAnswers:\n{answer_key}"
+
+    pred = orchestrator(
+        q,
+        full_question,
+        planner_agent,
+        solver_agent,
+        critic_agent
+    )
+
+    results.append(pred)
+
+
+similarity = sum(x == y for x, y in zip(results, answers)) / len(answers)
+print("Accuracy: ", similarity*100, "%")
+
+
